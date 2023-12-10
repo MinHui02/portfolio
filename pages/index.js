@@ -1,10 +1,10 @@
 import React from "react";
-import HeroSectionStatic from "@/pages/components/HeroSection";
-import Project from "./components/Project";
-import ProjectCard from "./components/ProjectCard";
+import HeroSectionStatic from "@/components/HeroSection";
+import Project from "../components/Project";
+import ProjectCard from "./component/ProjectCard";
 import dynamic from 'next/dynamic';
 import AboutMe from '../components/AboutMe';
-import EmailSection from '../components/EmailSection';
+import EmailSection from '../componenst/EmailSection';
 import Footer from '../components/Footer';
 import AchievementsSection from '../components/AchievementsSection';
 
