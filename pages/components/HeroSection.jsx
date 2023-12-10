@@ -17,7 +17,7 @@ const HeroSection = () => {
                 >
                     <h1 className="font-extrabold">
                         <span className="text-white text-8xl">
-                            Hello, I'm{" "}
+                            Hello, I am{" "}
                             <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
                                 Min Hui 
                             </span>
@@ -30,10 +30,10 @@ const HeroSection = () => {
                                 }}
                                 onInit={(typewriter) => {
                                     typewriter
-                                        .typeString `<span style="color:#FF77FF">Web Developer</span>`
+                                        .typeString ("Web Developer")
                                         .pauseFor(1500)
                                         .deleteAll()
-                                        .typeString`<span style="color:#9E7BFF">Crypto Trader</span>`
+                                        .typeString("Crypto Trader")
                                         .pauseFor(1500)
                                         .deleteAll()
                                         .start();
