@@ -29,10 +29,10 @@ const HeroSection = () => {
                                 }}
                                 onInit={(typewriter) => {
                                     typewriter
-                                        .typeString`<span style="color:#FF77FF">Web Developer</span>`
+                                        .typeString(<span style="color:#FF77FF">Web Developer</span>)
                                         .pauseFor(1500)
                                         .deleteAll()
-                                        .typeString`<span style="color:#9E7BFF">Crypto Trader</span>`
+                                        .typeString(<span style="color:#9E7BFF">Crypto Trader</span>)
                                         .pauseFor(1500)
                                         .deleteAll()
                                         .start();
