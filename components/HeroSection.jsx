@@ -30,19 +30,19 @@ const HeroSection = () => {
                                 }}
                                 onInit={(typewriter) => {
                                     typewriter
-                                        .typeString ("Web Developer")
+                                        .typeString ("Data Analyst")
                                         .pauseFor(1500)
                                         .deleteAll()
-                                        .typeString("Crypto Trader")
-                                        .pauseFor(1500)
-                                        .deleteAll()
+                                        //.typeString("Crypto Trader")
+                                        //.pauseFor(1500)
+                                        //.deleteAll()
                                         .start();
                                 }}
                             ></TypeWritter>
                         </span>
                         <p className="text-sky-100 mt-8 text-base sm:text-xl mb-6">Slide down to know more about me! </p>
                         <Link
-                            href="https://drive.google.com/file/d/1ajOJwhrua1lElHtbVjzOv12ySXn8xPBa/view?usp=sharing" 
+                            href="https://drive.google.com/file/d/1KfReRNoH2oqCIbS62VQeQj9ZTon1sgpq/view?usp=sharing" 
                             className="px-6 inline-block py-3 rounded-full border-2 border-pink-500 hover:bg-pink-400"
                         >
                             View My Resume
