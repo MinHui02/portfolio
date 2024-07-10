@@ -14,6 +14,7 @@ const TAB_DATA = [
                 <li>C / C++</li>
                 <li>Java(OOP/Concurrent Programming)</li>
                 <li>SAS</li>
+                <li>SQL</li>
                 <li>R Programming</li>
                 <li>SAS Enterprise Miner</li>
                 <li>Microsaft Power BI</li>
