@@ -13,30 +13,24 @@ const TAB_DATA = [
                 <li>Python</li>
                 <li>C / C++</li>
                 <li>Java(OOP/Concurrent Programming)</li>
+                <li>RUST</li>
                 <li>SAS</li>
                 <li>SQL</li>
+                <li>T-SQL</li>
                 <li>R Programming</li>
                 <li>SAS Enterprise Miner</li>
-                <li>Microsaft Power BI</li>
+                <li>Microsoft Power BI</li>
+                <li>Machine Learning</li>
+                <li>Deep Learning</li>
           </ul>
         ),
     },
     {
-        title: "Experiences",
+        title: "Work Experiences",
         id: "experiences",
         content: (
           <ul className="list-disc pl-2">
-            <li>ETH Singapore</li>
-            <li>ETH KL</li>
-            <li>ETH Online</li>
-            <li>ETHGlobal Superhack</li>
-            <li>Solana Hyperdrive</li>
-            <li>APUBCC Sparkathon</li>
-            <li>Encode Club</li>
-            <li>Google CTF</li>
-            <li>NUS Grey CTF</li>
-            <li>Tune Protect Hackathon</li>
-            <li>geNFesT Ideathon</li>
+            <li>Data Engineer Intern - TNG Digital</li>
           </ul>
         ),
     },
@@ -45,7 +39,7 @@ const TAB_DATA = [
         id: "education",
         content: (
           <ul className="list-disc pl-2">
-                <li>Asia Pacific University</li>
+                <li>Asia Pacific University of Technology and Innovation</li>
                 <li>SMJK Sam Tet</li>
                 <li>SMJK Ave Maria Convent</li>
           </ul>
