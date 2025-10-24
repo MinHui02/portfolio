@@ -3,15 +3,11 @@ import React from "react";
 const achievementsList = [
     {
         metric: "Projects",
-        value: "10+",
-    },
-    {
-        metric: "Awards",
-        value: "3+",
+        value: "1",
     },
     {
         metric: "Years",
-        value: "1",
+        value: "3",
     }
 ];
 
